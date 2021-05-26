@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in IT, gaming, Arduino, energy network and bicycle
-- 🌱 I’m currently learning java develop
+- 🌱 I’m currently learning java development
 - 📫 How to reach me ...
 
 <!---
