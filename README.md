@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in IT, gaming, Arduino, energy network, table tennis and bicycle
-- 🌱 I’m currently learning java development
+- 🌱 I’m java developer
 - 📫 Email: ilkia@ya.ru
 
 <!---
